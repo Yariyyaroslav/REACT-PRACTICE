@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+button {
+  color: white;
+  background: rgb(145, 29, 212);
+  border-radius: 5px;
+  padding: 5px;
+  border: 0;
+}
+
+.light {
+  background: white;
+  color: black;
+}
+
+.dark {
+  background: black;
+  color: white;
+}
+
+.buttonBox {
+  display: flex;
+  gap: 20px;
+}
